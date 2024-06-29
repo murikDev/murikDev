@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile App Developer
 --------------------
 
-Hello. I'm a mobile developer. I started learning to write code 2 years ago. I began writing code with Python, then learned Java for Back-End development in Spring Boot. Now I have been writing in Kotlin.
+Hello. I'm a full-stack developer. I started learning to write code 2 years ago. I began writing code with Python, then learned Java for Back-End development in Spring Boot. Now I have been writing in Go and Angular.
 
 * 🌍  I'm based in Ashgabat
 * ✉️  You can contact me at [myratorjyyev@gmail.com](mailto:myratorjyyev@gmail.com)
